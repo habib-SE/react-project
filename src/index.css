@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+   margin-right: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+   font-family: "muli","sens-serif";
+
+}
+.Navbar{
+background-color:white !important;
+}
+.navbar-brand{
+  font-size-adjust: 1.9rem !important;
+  color:#565387 !important;
+}
+.navbar a {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+.manu_active {
+  font-weight:bold;
+  border-bottom: 1px solid #565387;
+}
+.navbar a :hover{
+  color: #3498db !important;
+}
